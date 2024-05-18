@@ -778,12 +778,13 @@ nav ul li a:hover {
     height: 280;
 }
 .photo4{
-    position: relative;
-    top:-700;
-    left:-218 ;
+    position: absolute;
+    top:598;
+    left:1021;
    z-index: -1;
     width:300 ;
     height: 340;
+}
 }
 .item1000{
     position: relative;
