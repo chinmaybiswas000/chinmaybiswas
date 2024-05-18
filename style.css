@@ -492,15 +492,15 @@
 
 .bbba {
     position: relative;
-    top: -14px;
-    left: 255px;
+    top: -9px;
+    left: 41px;
     width: 40px;
 }
 
 .bbbb {
     position: relative;
-    top: -45px;
-    left: 373px;
+    top: -40px;
+    left: 165px;
     color: aliceblue;
     width: 100px;
 }
@@ -508,15 +508,15 @@
 .bbbc {
     font-size: larger;
     position: relative;
-    top: -62px;
+    top: -81px;
     left: 129px;
     color: aliceblue;
-    width: 215;
+    width: 300;
 }
 
 .bbbd {
     position: relative;
-    top: -47px;
+    top: -63px;
     left: 129px;
     color: white;
     width: 307;
@@ -810,51 +810,45 @@ nav ul li a:hover {
     display: none;
 }
 
+
 .theme1{color: white;
 position: relative;
-top: -210;
-left: 345;
-text-align: center;  
-    width: 100;
-background-color: black;}
-.theme1{color: white;
-position: relative;
-top: -210;
+top: -100;
 left: 345;
 text-align: center;  
     width: 100;
 background-color: black;}
 .theme2{color: white;
 position: relative;
-top: -144;
+top: -100;
 left: 344;
 text-align: center;  
     width: 100;
 background-color: black;}
 .theme3{color: white;
 position: relative;
-top: -187;
+top: -100;
 left: 345;
 text-align: center;  
     width: 100;
 background-color: black;}
 .theme4{color: white;
 position: relative;
-top: -167;
+top: -100;
 left: 345;
 text-align: center;  
     width: 100;
 background-color: black;}
 .theme5{color: white;
 position: relative;
-top: -146;
+top: -100;
 left: 345;
 text-align: center;  
     width: 100;
 background-color: black;}
 .theme6{color: white;
 position: relative;
-top: -145;
+top: -101;
 left: 345;
 text-align: center;  
     width: 100;
